@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliseu.lisboa.gmail.com
-- 👀 I’m interested in Programação 
+- 👀 I’m interested in programming development
 - 🌱 I’m currently learning Python Django - HTML/CSS/JS
 - 💞️ I'm looking to collaborate on HTML/CSS/JS development, etc.
 - 📫 How to reach me { https://www.linkedin.com/in/eliseu-jose-lisboa-junior-bb407221/}
