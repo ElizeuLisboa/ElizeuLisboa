@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliseuLisboa.gmail.com
+- 👋 Hi, I’m @eliseu.lisboa.gmail.com
 - 👀 I’m interested in Programação 
 - 🌱 I’m currently learning Python Django - HTML/CSS/JS
 - 💞️ I'm looking to collaborate on HTML/CSS/JS development, etc.
